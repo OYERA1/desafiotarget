@@ -1,0 +1,3 @@
+Depende, caso as 3 lampadas estejam em 3 salas diferentes + 1 do interruptor, não é possivel com apenas duas idas em apenas UMA das sala, caso sejam apenas duas salas, uma das lampadas e uma dos interruptores, pode se usar a temperatura de cada lampada.
+
+Exemplo: Deixo alguns minutos o interruptor X ligado, após o tempo, desligo e ligo o interruptor Y. Ao entrar na sala, a lampada apagada e quente, (chamaremos por A) corresponde ao interruptor X, a acesa e fria (B) ao interruptor Y, e a apagada e fria (C) ao interruptor Z
